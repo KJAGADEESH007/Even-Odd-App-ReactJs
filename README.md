@@ -1,4 +1,4 @@
-In this project, let's build an **Even Odd App** by applying the concepts we have learned till now.
+**Random Number Generator and checking if its Even or Odd Application*
 
 ### Refer to the image below:
 
